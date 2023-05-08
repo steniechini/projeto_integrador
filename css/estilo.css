@@ -23,3 +23,26 @@ h1{
 .oli{
 margin-bottom: 5em;
 }
+
+/* início thami, vila don patto */
+#body_background{
+    background-image: url(/img/viladonpatto_background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#titulodonpatto {
+    text-align: center;
+    margin-top: 220px;
+    font-size: 50px;
+    color: antiquewhite;
+}
+
+#subtitulodonpatto {
+    color: antiquewhite;
+    margin-top: -20px;
+    text-align: center;
+    font-size: 40px;
+}
+
+/* fim thami, vila don patto */
