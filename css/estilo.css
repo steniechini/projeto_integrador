@@ -26,13 +26,51 @@ margin-bottom: 5em;
 
 /* início thami, vila don patto */
 
-#dois {
-    margin-top: 50px;
+header {
+    height: 640px;
+    background-image: url(../img/viladonpatto_background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1;
 }
 
-#tres {
+.titulo h1{
+    color: antiquewhite;
+    width: 450px;
+    display: flex;
+    justify-content: center;
     align-items: center;
-    text-align: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin-top: 190px;
+    font-weight: 600;
+}
+
+.titulo h2{
+    color: antiquewhite;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin-top: 1px;
+    font-weight: 600;
+}
+
+#dois {
+    margin-top: 90px;
+}
+
+.imagembaixo1{
+    width: 550px;
+    margin-bottom: 50px;
+}
+
+.imagembaixo2{
+    width: 550px;
+    margin-bottom: 50px;
 }
 
 /* fim thami, vila don patto */
