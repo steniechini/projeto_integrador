@@ -27,7 +27,7 @@ margin-bottom: 5em;
 /* início thami, vila don patto */
 
 header {
-    height: 640px;
+    height: 740px;
     background-image: url(../img/viladonpatto_background.jpg);
     background-position: center;
     background-size: cover;
@@ -43,7 +43,7 @@ header {
     align-items: center;
     flex-wrap: wrap;
     margin: 0 auto;
-    margin-top: 190px;
+    margin-top: 280px;
     font-weight: 600;
 }
 
