@@ -1,11 +1,30 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Newsreader:ital,wght@0,200;0,300;0,400;1,200;1,300&display=swap');
-
+/*inicio ste */
 footer{
     background-color: #600028;
 }
 p{
     font-family: 'Newsreader', serif;
+}
+nav ul li a:hover{
+    color:  aliceblue;  
+    
+
+}
+nav {
+    text-align: left;
+    display: inline;
+}
+footer  a{
+ 
+    color: aliceblue;
+    background-color: #600028;
+}
+
+footer ul li a:hover{
+   
+    color: rgb(187, 193, 198);
 }
 h1{
     font-family: 'Cinzel', serif;
@@ -24,6 +43,86 @@ h1{
 margin-bottom: 5em;
 }
 
+
+.imagem_conteudo {
+  max-width: 80%;
+  height: auto;
+}
+  @media screen and (min-width: 768px) {
+    .imagem_conteudo {
+      max-width: 50%;
+    }
+  }
+  
+  @media screen and (min-width: 1200px) {
+    .imagem_conteudo {
+      max-width: 33.33%;
+    }
+  }
+
+  .olivardo section{
+    margin-bottom: 2em;
+
+  }
+  .port section{
+    margin-bottom: 2em;
+
+  }
+  .port aside{
+    margin-bottom: 2em;
+  }
+
+  .perfil{
+    margin: 1em;
+  }
+
+  footer img{
+    width: 40px;
+    margin-top: 1em;
+  }
+ footer ul li {
+   display: inline;
+ }
+  .imagem_inicial{
+    max-width: 80%;
+    height: auto;
+  }
+
+
+
+  @media screen and (min-width: 768px) {
+    .imagem_inicial {
+      max-width: 50%;
+    }
+  }
+  
+  @media screen and (min-width: 1200px) {
+    .imagem_inicial {
+      max-width: 33.33%;
+    }
+  }
+  .uni {
+    max-width: 80%;
+    height: auto;
+  }
+  
+
+
+  @media screen and (min-width: 768px) {
+    .uni {
+      max-width: 50%;
+    }
+  }
+  
+  @media screen and (min-width: 1200px) {
+    .uni {
+      max-width: 33.33%;
+    }
+  }
+  .logo{
+    width: 100px;
+  }
+  /* fim ste */
 /* início thami, vila don patto */
 
 header {
