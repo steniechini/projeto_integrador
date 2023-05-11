@@ -34,8 +34,8 @@
                                 <li class="nav-item"><a class="nav-link active" aria-current="page"
                                         href="home.html">Home</a></li>
                                 <li class="nav-item"><a class="nav-link" href="restaurantes.html">Restaurantes</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#">Culinária Italiana</a></li>
-                                <li class="nav-item"><a class="nav-link" href="portuguesa.html">Culinária portuguesa</a>
+                                <li class="nav-item"><a class="nav-link" href="#">Ambiente Italiana</a></li>
+                                <li class="nav-item"><a class="nav-link" href="portuguesa.html">Ambiente portuguesa</a>
                                 </li>
                                 <li class="nav-item"><a class="nav-link" href="quemsomos.html">Quem somos</a></li>
                                 <li class="nav-item"><a class="nav-link" href="contato.html">Contato</a></li>
@@ -50,17 +50,17 @@
             </header>
 
             <!-- CARDS -->
-            <section id="dois" class="container">
+            <section id="sobre" class="container">
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
-                        <div class="card mb-3">
-                            <div class="row g-0">
+                        <div class="card mb-3" style="max-width: 640px;">
+                            <div class="row g-8">
                                 <div class="col-md-4">
                                     <img src="img/viladonpatto_img3.jpg" class="img-fluid rounded-start" alt="a">
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
-                                        <h5 class="card-title">lorem</h5>
+                                        <h5 class="card-title">Ambiente Portuguesa</h5>
                                         <p class="card-text">Lorem ipsum dolor sit amet consectetur
                                             adipisicing elit.</p>
                                     </div>
@@ -69,14 +69,14 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12">
-                        <div class="card mb-3">
-                            <div class="row g-0">
+                        <div class="card mb-3" style="max-width: 640px;">
+                            <div class="row g-8">
                                 <div class="col-md-4">
                                     <img src="img/viladonpatto-img2.jpg" class="img-fluid rounded-start" alt="a">
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
-                                        <h5 class="card-title">lorem</h5>
+                                        <h5 class="card-title">Ambiente Italiana</h5>
                                         <p class="card-text">Lorem ipsum dolor sit, amet consectetur
                                             adipisicing elit.</p>
                                     </div>
@@ -86,18 +86,107 @@
                     </div>
             </section>
 
-            <section id="tres" class="container">
-                <div class="row">
-                    <div class="col-lg-12 col-md-12">
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos quae exercitationem recusandae
-                            harum mollitia, eius sit aspernatur nisi rem! Quaerat cumque ipsum doloribus ea unde
-                            cupiditate provident eos error inventore.</p>
-                        <img src="img/viladonpatto_img1.jpg" class="imagembaixo1">
-                        <img src="img/viladonpatto_img4.jpg" class="imagembaixo2">
+            <!-- SESSÃO -->
+            <section id="menu" class="container mt-5 mb-5">
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="Ambiente" data-bs-toggle="tab"
+                            data-bs-target="Ambiente-pane" type="button" role="tab" aria-controls="Ambiente-pane"
+                            aria-selected="true">Ambiente</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="cardapio" data-bs-toggle="tab" data-bs-target="#cardapio-pane"
+                            type="button" role="tab" aria-controls="cardapio-pane"
+                            aria-selected="false">Cardápio</button>
+                    </li>
+                </ul>
+                <div class="tab-content" id="donpattoTabContent">
+                    <div class="tab-pane fade show active" id="Ambiente-pane" role="tabpanel" aria-labelledby="Ambiente"
+                        tabindex="0">
+                        <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
+                            <div class="col">
+                                <div class="card">
+                                    <img src="..." class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Card title</h5>
+                                        <p class="card-text">This is a longer card with supporting text below as a
+                                            natural lead-in to additional content. This content is a little bit longer.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="..." class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Card title</h5>
+                                        <p class="card-text">This is a longer card with supporting text below as a
+                                            natural lead-in to additional content. This content is a little bit longer.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="..." class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Card title</h5>
+                                        <p class="card-text">This is a longer card with supporting text below as a
+                                            natural lead-in to additional content.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card">
+                                    <img src="..." class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Card title</h5>
+                                        <p class="card-text">This is a longer card with supporting text below as a
+                                            natural lead-in to additional content. This content is a little bit longer.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
+                    <div class="tab-pane fade" id="cardapio-pane" role="tabpanel" aria-labelledby="cardapio"
+                        tabindex="0"></div>
                 </div>
             </section>
 
+            <!-- LOCALIZAÇÃO -->
+            <section class="container text-center mb-5" id="localizacao">
+                <!-- Button trigger modal -->
+                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    Conheça o don Patto
+                </button>
+
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
+                    aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h1 class="modal-title fs-5" id="exampleModalLabel">Estamos te esperando!</h1>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal"
+                                    aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <p>Estrada do Vinho, KM 2,5 - Jardim Villaca, São Roque <br> SP, 18145-002</p>
+                                <div style="width: 100%">
+                                    <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0"
+                                        marginwidth="0"
+                                        src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Estrada%20do%20Vinho,%20KM%202,5%20-%20Jardim%20Villaca,%20S%C3%A3o%20Roque%20-%20SP,%2018145-002+(Vila%20Don%20Patto)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+                                    </iframe>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
             <!-- FOOTER -->
             <div class="row">

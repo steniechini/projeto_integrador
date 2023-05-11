@@ -61,18 +61,20 @@ margin-bottom: 5em;
     letter-spacing: -1px;
 }
 
-#dois {
+#sobre {
     margin-top: 90px;
 }
 
 .imagembaixo1{
     width: 550px;
     margin-bottom: 50px;
+    align-items: center;
 }
 
 .imagembaixo2{
     width: 550px;
     margin-bottom: 50px;
+    align-items: center;
 }
 
 /* fim thami, vila don patto */
