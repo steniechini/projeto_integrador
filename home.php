@@ -11,60 +11,8 @@
   <!-- BBootstrap Icons via CDN --><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
         <title>HOME</title>
     </head>
-
-
-
     <body>
-    <div class="row">
-        <div class="col-12">
-            <div class="row">
-                <div class="col-12">
-                  <header>
-                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                        <div class="container-fluid">
-                          <a class="navbar-brand" href="#">
-                            <img src="img/logo.png" alt="logo" class="logo">
-                          </a>
-                          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
-                          </button>
-                          <div class="collapse navbar-collapse" id="navbarNav">
-                            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                              <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="home.html"><span class="bi bi-house-heart"></span> Home</a>
-                              </li>
-                              <li class="nav-item">
-                                <a class="nav-link" href="restaurantes.html">Restaurantes</a>
-                              </li>
-                              <li class="nav-item">
-                                <a class="nav-link" href="italiana.html">Culinária Italiana</a>
-                              </li>
-                              <li class="nav-item">
-                                <a class="nav-link" href="portuguesa.html">Culinária portuguesa</a>
-                              </li>
-                              <li class="nav-item">
-                                <a class="nav-link" href="quemsomos.html">Quem somos</a>
-                              </li>
-                              <li class="nav-item">
-                                <a class="nav-link" href="contato.html">Contato</a>
-                              </li>
-                            </ul>
-                          </div>
-                        </div>
-                      </nav>
-                      
-                </header>
-                    
-          
-        </div>
-      </div>
-
-
-    
-       
-
-    </div>
-   
+      <?php include("header.php")?>
       <div class="container">
         <div class="row">
           <div class="col-12">
@@ -152,20 +100,7 @@
            </div>
           </main>
 
-        <div class="row">
-            <div class=" col-12">
-              <footer >
-                <ul>
-                    
-                    <li><a href="https://twitter.com"><img src="img/twitter.png" alt="logo twitter"></a></li>
-                    <li><a href="https://facebook.com"><img src="img/facebook.png" alt="logo facebook"></a></li>
-                    <li><a href="https://instagram.com"><img src="img/instagram.png" alt="logo instagram"></a></li>
-                </ul>
-              <a  href="termos.html">Termos de uso</a>
-            </footer>
-            </div>
-        
-</div>
+          <?php include("footer.php") ?>
  
 <!-- Bootstrap JavaScript Libraries -->
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"

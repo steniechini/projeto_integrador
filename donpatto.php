@@ -8,8 +8,9 @@
     <!-- Bootstrap CSS v5.2.1 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="css/estilo.css">
-<!-- BBootstrap Icons via CDN --><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="css/estilo.css">
+    <!-- BBootstrap Icons via CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <title>Vila Don Patto</title>
 </head>
 
@@ -17,41 +18,7 @@
     <div class="row">
         <div class="col-12">
             <header id="header_donpatto">
-                <nav class=" navbar navbar-expand-lg navbar-light">
-                    <div class="container-fluid">
-                        <a class="navbar-brand" href="#">
-                            <img src="img/logo.png" alt="logo" width="30" height="24">
-                        </a>
-                        <button class=" navbar-toggler" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                            aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon">
-                            </span>
-                        </button>
-                        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                                <li class="nav-item">
-                                  <a class="nav-link active" aria-current="page" href="home.html"><span class="bi bi-house-heart"></span> Home</a>
-                                </li>
-                                <li class="nav-item">
-                                  <a class="nav-link" href="restaurantes.html">Restaurantes</a>
-                                </li>
-                                <li class="nav-item">
-                                  <a class="nav-link" href="italiana.html">Ambiente Italiana</a>
-                                </li>
-                                <li class="nav-item">
-                                  <a class="nav-link" href="portuguesa.html">Ambiente portuguesa</a>
-                                </li>
-                                <li class="nav-item">
-                                  <a class="nav-link" href="quemsomos.html">Quem somos</a>
-                                </li>
-                                <li class="nav-item">
-                                  <a class="nav-link" href="contato.html">Contato</a>
-                                </li>
-                              </ul>
-                        </div>
-                    </div>
-                </nav>
+                <?php include("header.php") ?>
                 <div class="titulo">
                     <h1>VILA DON PATTO</h1>
                     <h2>1988</h2>
@@ -99,19 +66,14 @@
             <section id="menu" class="container mt-5 mb-5">
                 <ul class="nav nav-tabs" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="Ambiente" data-bs-toggle="tab"
-                            data-bs-target="Ambiente-pane" type="button" role="tab" aria-controls="Ambiente-pane"
-                            aria-selected="true">Ambiente</button>
+                        <button class="nav-link active" id="Ambiente" data-bs-toggle="tab" data-bs-target="Ambiente-pane" type="button" role="tab" aria-controls="Ambiente-pane" aria-selected="true">Ambiente</button>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="cardapio" data-bs-toggle="tab" data-bs-target="#cardapio-pane"
-                            type="button" role="tab" aria-controls="cardapio-pane"
-                            aria-selected="false">Cardápio</button>
+                        <button class="nav-link" id="cardapio" data-bs-toggle="tab" data-bs-target="#cardapio-pane" type="button" role="tab" aria-controls="cardapio-pane" aria-selected="false">Cardápio</button>
                     </li>
                 </ul>
                 <div class="tab-content" id="donpattoTabContent">
-                    <div class="tab-pane fade show active" id="Ambiente-pane" role="tabpanel" aria-labelledby="Ambiente"
-                        tabindex="0">
+                    <div class="tab-pane fade show active" id="Ambiente-pane" role="tabpanel" aria-labelledby="Ambiente" tabindex="0">
                         <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
                             <div class="col">
                                 <div class="card">
@@ -158,8 +120,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="cardapio-pane" role="tabpanel" aria-labelledby="cardapio"
-                        tabindex="0"></div>
+                    <div class="tab-pane fade" id="cardapio-pane" role="tabpanel" aria-labelledby="cardapio" tabindex="0"></div>
                 </div>
             </section>
 
@@ -171,21 +132,17 @@
                 </button>
 
                 <!-- Modal -->
-                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
-                    aria-hidden="true">
+                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog modal-dialog-centered">
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h1 class="modal-title fs-5" id="exampleModalLabel">Estamos te esperando!</h1>
-                                <button type="button" class="btn-close" data-bs-dismiss="modal"
-                                    aria-label="Close"></button>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
                                 <p>Estrada do Vinho, KM 2,5 - Jardim Villaca, São Roque <br> SP, 18145-002</p>
                                 <div style="width: 100%">
-                                    <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0"
-                                        marginwidth="0"
-                                        src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Estrada%20do%20Vinho,%20KM%202,5%20-%20Jardim%20Villaca,%20S%C3%A3o%20Roque%20-%20SP,%2018145-002+(Vila%20Don%20Patto)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+                                    <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Estrada%20do%20Vinho,%20KM%202,5%20-%20Jardim%20Villaca,%20S%C3%A3o%20Roque%20-%20SP,%2018145-002+(Vila%20Don%20Patto)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
                                     </iframe>
                                 </div>
                             </div>
@@ -197,20 +154,8 @@
                 </div>
             </section>
 
-            <!-- FOOTER -->
-            <div class="row">
-                <div class="col-12">
-                    <footer >
-                        <ul>
-                            
-                            <li><a href="https://twitter.com"><img src="img/twitter.png" alt="logo twitter"></a></li>
-                            <li><a href="https://facebook.com"><img src="img/facebook.png" alt="logo facebook"></a></li>
-                            <li><a href="https://instagram.com"><img src="img/instagram.png" alt="logo instagram"></a></li>
-                        </ul>
-                      <a  href="termos.html">Termos de uso</a>
-                    </footer>
-                </div>
-            </div>
+            <?php include("footer.php") ?>
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+
 </html>
