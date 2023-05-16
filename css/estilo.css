@@ -16,6 +16,14 @@ nav {
     text-align: left;
     display: inline;
 }
+.footer{
+ 
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+
+}
 footer  a{
  
     color: aliceblue;
@@ -177,3 +185,265 @@ margin-bottom: 5em;
 }
 
 /* fim thami, vila don patto */
+
+/*jenny*/
+/*home*/
+
+.hometext{
+  height: 15em;
+  width: 45em;
+  background: url(../img/gp1.png) no-repeat;
+  /* background: url(../img/retanglers.png);*/
+   
+  } 
+ 
+ 
+  .h1home{
+   margin-top: 50px;
+   margin-left: 10px;
+   color: azure;
+  }
+  .phome{
+   margin-left: 10px;
+   font-size: 20px;
+   font-family: 'Newsreader', serif;
+   color: azure;
+  }
+    
+ 
+ 
+ 
+ 
+  
+    /*restaurantes*/
+ 
+ .textrest a{
+     color: white;
+    font-family: 'Newsreader', serif;
+    font-size: 24px;
+    text-decoration: none;
+    margin-left: 80px;
+   
+ }
+ 
+ 
+ .cantina{
+     border-radius: 21px;
+     background: #600028;
+     box-shadow: inset 20px 20px 21px #600028,
+                 inset -20px -20px 21px #780032;
+     height: 8em;
+     animation: slideIn 1s ease-in-out forwards;
+         
+       }
+       /*animação*/
+       @keyframes slideIn {
+         from {
+           transform: translateX(-100%);
+           opacity: 0;
+         }
+         to {
+           transform: translateX(0);
+           opacity: 1;
+         }
+       }
+ 
+       .textrest{
+        text-decoration: none;
+        color: white;
+           position: absolute;
+           margin-bottom: -150px;
+           
+       }
+      
+ 
+ /*contato*/
+ 
+ 
+ 
+ 
+ .login {
+   padding-top: 50px
+ }
+ #login .form-wrap {
+   width: 30%;
+   margin: 0 auto;
+ }
+ #login h1 {
+   color: #600028;
+   font-family: 'Cinzel', serif;
+   font-size: 25px;
+   text-align: center;
+   font-weight: bold;
+   padding-bottom: 20px;
+ }
+ #login .form-group {
+   margin-bottom: 25px;
+ }
+
+
+ #login  .label {
+   color: #842a2a;
+   font-family: 'Newsreader', serif;
+   font-size: 15px;
+   font-weight: normal;
+ }
+
+ 
+ 
+   /*botao animação*/
+   button {
+     margin-top: 20px;
+     margin-bottom: 15px;
+  
+   }
+   
+   .custom-btn {
+     width: 100px;
+     height: 40px;
+     color: #000000(0, 0, 0);
+     border-radius: 5px;
+     padding: 15px 25px;
+     font-family: 'Newsreader', serif;
+     font-size: 15px;
+     font-weight: 500;
+     background: transparent;
+     cursor: pointer;
+     transition: all 0.3s ease;
+     position: relative;
+     display: inline-block;
+      box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+      7px 7px 20px 0px rgba(0,0,0,.1),
+      4px 4px 5px 0px rgba(0,0,0,.1);
+     outline: none;
+   }
+   
+   .btn-1 {
+     position: relative;
+     right:0px;
+     bottom: 20px;
+     border:none;
+     box-shadow: none;
+     width: 100px;
+     height: 40px;
+     line-height: 42px;
+     -webkit-perspective: 230px;
+     perspective: 230px;
+   }
+   .btn-1 span {
+     background: rgb(215, 222, 224);
+     background: linear-gradient(0deg, #ddc0cc 0%, #600028 100%);
+     display: block;
+     position: absolute;
+     width: 100px;
+     height: 40px;
+     box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+      7px 7px 20px 0px rgba(0,0,0,.1),
+      4px 4px 5px 0px rgba(0,0,0,.1);
+     border-radius: 5px;
+     margin:0;
+     text-align: center;
+     -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+     box-sizing: border-box;
+     -webkit-transition: all .3s;
+     transition: all .5s;
+   }
+   .btn-1 span:nth-child(1) {
+     box-shadow:
+      -7px -7px 20px 0px #fff9,
+      -4px -4px 5px 0px #fff9,
+      7px 7px 20px 0px #0002,
+      4px 4px 5px 0px #0001;
+     -webkit-transform: rotateX(90deg);
+     -moz-transform: rotateX(90deg);
+     transform: rotateX(90deg);
+     -webkit-transform-origin: 50% 50% -20px;
+     -moz-transform-origin: 50% 50% -20px;
+     transform-origin: 50% 50% -20px;
+   }
+   .btn-1 span:nth-child(2) {
+     -webkit-transform: rotateX(0deg);
+     -moz-transform: rotateX(0deg);
+     transform: rotateX(0deg);
+     -webkit-transform-origin: 50% 50% -20px;
+     -moz-transform-origin: 50% 50% -20px;
+     transform-origin: 50% 50% -20px;
+   }
+   .btn-1:hover span:nth-child(1) {
+     box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+      7px 7px 20px 0px rgba(0,0,0,.1),
+      4px 4px 5px 0px rgba(0,0,0,.1);
+     -webkit-transform: rotateX(0deg);
+     -moz-transform: rotateX(0deg);
+     transform: rotateX(0deg);
+   }
+   .btn-1:hover span:nth-child(2) {
+     box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+      7px 7px 20px 0px rgba(0,0,0,.1),
+      4px 4px 5px 0px rgba(0,0,0,.1);
+    color: transparent;
+     -webkit-transform: rotateX(-90deg);
+     -moz-transform: rotateX(-90deg);
+     transform: rotateX(-90deg);
+   }
+  /*fim jenny*/ 
+  /*lucas*/
+  html{
+    scroll-behavior: smooth;
+}
+
+
+.header-lucas{
+    background-image: url(http://via.placeholder.com/1080x1080);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+        
+
+
+}
+
+/* aqui termina o nav */
+
+.lucas-hy{
+    margin: 0px 50px;
+}
+
+.Lucas-h1{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.botao-article{
+    display: block;
+    margin:  0px auto;
+    padding: 15px 50px;
+    margin-bottom: 25px;
+}
+.lucas-img{
+    margin-top: 30px;
+}
+
+/* vinicius */
+/* CULINARIA ITALIANA */
+
+@media(max-width:390px) {
+
+  .paragrafo {
+      font-size: 10px;
+      
+  }
+  
+  #oh2 {
+      font-family: 'Cinzel', serif;
+      font-size: large;
+      align-items: center;
+      text-align: center;
+  
+  }
+  
+  .mobnhoque {
+      align-items: center;
+  }
+  }
