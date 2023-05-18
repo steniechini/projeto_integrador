@@ -67,7 +67,7 @@
         
       </div>
     </div>
-    <?php include("footer.php") ?>
+   
   
   <hr>
   
@@ -192,14 +192,7 @@
   <hr>
 </main>
 
-<footer >
-  <ul>
-      <li><a href="https://twitter.com"><img src="img/twitter.png" alt="logo twitter"></a></li>
-      <li><a href="https://facebook.com"><img src="img/facebook.png" alt="logo facebook"></a></li>
-      <li><a href="https://instagram.com"><img src="img/instagram.png" alt="logo instagram"></a></li>
-  </ul>
-<a class="termos" href="termos.html">Termos de uso</a>
-</footer>
+<?php include("footer.php") ?>
 
 </body>
 </html>
