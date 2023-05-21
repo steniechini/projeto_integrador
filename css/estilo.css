@@ -4,36 +4,59 @@
 /*inicio ste */
 footer {
   background-color: #600028;
+  height: 6em;
 }
-
+.footcontato{
+  position: fixed;
+  height: 100px;
+  bottom: 0;
+  width: 100%;
+}
 p {
   font-family: 'Newsreader', serif;
 }
 
 nav ul li a:hover {
-  color: aliceblue;
+  color: #777777;
 
 
 }
+.navbar{
+  background-color: #ffffff ;
+}
+
+.nav-item a{
+color: #000000;
+font-family: 'Newsreader', serif;
+font-size: larger;
+text-transform: uppercase;
+margin-left: 1em;
+}
+.nav-item a:hover {
+  color: #777777;
+  font-family: 'Newsreader', serif;
+  
+  }
+
 
 nav {
   text-align: left;
   display: inline;
 }
 
-.footer {
-
-  position: fixed;
-  height: 100px;
-  bottom: 0;
-  width: 100%;
-
+.float-right{
+font-family: 'Newsreader', serif;
+float:right;
+text-transform: uppercase;
+text-decoration: none;
+padding-top: 1em;
+padding-right: 4em;
 }
 
 footer a {
 
   color: aliceblue;
-  background-color: #600028;
+ 
 }
 
 footer ul li a:hover {
@@ -57,12 +80,23 @@ h1 {
 .quemsomos h1 {
   color: #600028;
 }
+.quemsomos main{
+  
+  justify-content: center;
+  align-items: center;
 
-.oli {
-  margin-bottom: 5em;
 }
 
 
+.portp a{
+  color: #600028;
+}
+.portp a:hover{
+  color:#777777
+}
+.olivardo main{
+  margin-bottom: 6em;
+}
 .imagem_conteudo {
   max-width: 80%;
   height: auto;
@@ -70,16 +104,98 @@ h1 {
 
 @media screen and (min-width: 768px) {
   .imagem_conteudo {
-    max-width: 50%;
+    max-width: 1%;
+    opacity: 0;
+    visibility: hidden;
   }
 }
-
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 200px) {
   .imagem_conteudo {
-    max-width: 33.33%;
+    max-width: 1%;
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .imagem_conteudo {
+    max-width: 100%;
+    opacity: 100;
+    visibility:visible;
+}
+}
+@media screen and (min-width: 768px) {
+  .imagem_mobile {
+    max-width: 100%;
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+@media screen and (min-width: 200px) {
+  .imagem_mobile {
+    max-width: 100%;
+    opacity: 100;
+    visibility:visible;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .imagem_mobile {
+    max-width: 1%;
+    opacity: 0;
+    visibility: hidden;
+}
+}
+@media screen and (min-width: 768px) {
+  .imagem_olivardo {
+    max-width: 100%;
+    
+  }
+}
+@media screen and (min-width: 200px) {
+  .imagem_olivardo {
+    max-width: 100%;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .imagem_olivardo {
+    max-width: 100%;
+  }
+  
+}
+@media screen and (min-width: 768px) {
+  .imagem_pt {
+    max-width: 100%;
+  }
+}
+@media screen and (min-width: 200px) {
+  .imagem_pt {
+    max-width: 100%;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .imagem_pt {
+    max-width: 100%;
   }
 }
 
+@media screen and (max-width: 767px) {
+  .portp {
+    font-size: 1em;
+  }
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 999px) {
+  .portp {
+    font-size: 0.9em;
+  }
+}
+
+
+@media screen and (min-width: 1000px) {
+  .portp {
+    font-size: 1.5em;
+  }
+}
 .olivardo section {
   margin-bottom: 2em;
 
@@ -126,27 +242,36 @@ footer ul li {
   }
 }
 
-.uni {
-  max-width: 80%;
-  height: auto;
+@media screen and (min-width: 768px) {
+  .unih1{
+    font-size: 2em;
+  }
 }
 
-
+@media screen and (min-width: 1200px) {
+  .unih1{
+    font-size: 5em;
+  }
+}
 
 @media screen and (min-width: 768px) {
   .uni {
-    max-width: 50%;
+    max-width: 40%;
+
+    margin-left: 3em;
   }
 }
 
 @media screen and (min-width: 1200px) {
   .uni {
-    max-width: 33.33%;
+    max-width: 30%;
+    margin-left: -3em;
+   
   }
 }
 
 .logo {
-  width: 100px;
+  width: 90px;
 }
 
 /* fim ste */

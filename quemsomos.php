@@ -18,11 +18,11 @@
 
 <body class="quemsomos">
     <?php include("header.php") ?>
-    <main>
+    <main class="d-flex flex-column align-items-center justify-content-center mx-auto">
         <div class="container">
             <div class="row">
-                <article>
-                    <h1 class="text-uppercase"> <img src="img/uni.png" alt="logo" class="uni">QUEM SOMOS</h1>
+                <article  class="col-md-12 col-xs-12  col-sm-12 text-center">
+                    <h1 class="text-uppercase unih1"> <img src="img/uni.png" alt="logo" class="uni">QUEM SOMOS</h1>
                 </article>
             </div>
         </div>
@@ -33,7 +33,7 @@
 
 
 
-                <div class="col-md-10 col-xs-10  col-sm-10">
+                <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
                         <p><img src="https://via.placeholder.com/150x150" alt="Jennyfer" class="perfil"></p>
                         <h2>Jennyfer</h2>
@@ -43,7 +43,7 @@
                     </section>
 
                 </div>
-                <div class="col-md-10 col-xs-10  col-sm-10 ">
+                <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
                         <p><img src="https://via.placeholder.com/150x150" alt="Lucas" class="perfil"></p>
                         <h2>Lucas</h2>
@@ -53,7 +53,7 @@
                     </section>
 
                 </div>
-                <div class="col-md-10 col-xs-10  col-sm-10 ">
+                <div class="col-md-12 col-xs-12  col-sm-12">>
                     <section>
                         <p><img src="https://via.placeholder.com/150x150" alt="Stephanie" class="perfil"></p>
                         <h2>Stephanie</h2>
@@ -63,7 +63,7 @@
                     </section>
 
                 </div>
-                <div class="col-md-10 col-xs-10  col-sm-10">
+                <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
                         <p><img src="https://via.placeholder.com/150x150" alt="Thamiris" class="perfil"></p>
                         <h2>Thamiris</h2>
@@ -73,7 +73,7 @@
                     </section>
 
                 </div>
-                <div class="col-md-10 col-xs-10  col-sm-10">
+                <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
                         <p><img src="https://via.placeholder.com/150x150" alt="vinicius" class="perfil"></p>
                         <h2>Vínicius</h2>

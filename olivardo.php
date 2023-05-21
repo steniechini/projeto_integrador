@@ -13,7 +13,7 @@
 </head>
 <body class="olivardo">
 <?php include("header.php")?>
-        <main>
+        <main >
             <div class="container">
                 <div class="container">
                     <div class="row">
@@ -21,7 +21,9 @@
                         <div class="col-12">
                              <section class="text-center" >
                              <h1 class="text-uppercase text-center">Quinta do Olivardo</h1> 
-                             <img src="img/olivardo1.jpg" alt="Olivardo" class="imagem_inicial">
+                             
+                             <img class="text-center imagem_olivardo" src="img/quintadoolivardo.png" alt="Quinta do Olivardo">
+                             
                         </section>
                        
                         </div>
@@ -34,13 +36,13 @@
                   <div class="row">
                   <div class="col-6 col-sm-6 col-md-4">
                     <section>
-                        <img src="img/olivardo2.png" alt="quinta do olivardo" class="imagem_conteudo" >
+                        <img src="img/olivardo.png" alt="Olivardo" class="imagem_conteudo" >
+                        <img src="img/olivardom.png" alt="Olivardo" class="imagem_mobile" >
                     </section>
                   </div>
                   <div class="col-6 col-sm-6 col-md-7">
-                    <article>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin iaculis purus in mi iaculis, id hendrerit tortor posuere. Pellentesque velit odio, blandit sed finibus non, tincidunt eu massa. Aliquam finibus nibh ligula, eu consequat est tempus non. Suspendisse dapibus pellentesque vulputate. Nam bibendum ultricies iaculis. Fusce mattis auctor venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin iaculis purus in mi iaculis, id hendrerit tortor posuere. Pellentesque velit odio, blandit sed finibus non, tincidunt eu massa. Aliquam finibus nibh ligula, eu consequat est tempus non. Suspendisse dapibus pellentesque vulputate. Nam bibendum ultricies iaculis. Fusce mattis auctor venenatis.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam animi tempora asperiores officiis voluptates velit ea numquam nisi dignissimos quo, in ratione distinctio veniam. Consequuntur accusamus quo facilis consectetur exercitationem.</p> 
+                    <article class="portp">
+                        <p>Durante 15 anos, Olivardo Saqui dedicou-se ao trabalho em uma vinícola em São Roque, onde adquiriu conhecimentos e paixão pela arte da vinicultura. No entanto, seu verdadeiro sonho era criar sua própria vinícola, o que resultou no nascimento do restaurante Quinta do Olivardo. Com um processo totalmente artesanal, os vinhos de Olivardo começaram a conquistar apreciadores que visitavam sua adega. Foi nesse contexto que, pela primeira vez, uma receita da família de sua esposa foi preparada na casa, o que marcou o início do sucesso da Quinta do Olivardo: o renomado Bolinho de Bacalhau.</p> 
                     </article>
                   </div>
                   </div>
@@ -49,14 +51,19 @@
                 <div class="container">
                     <div class="row">
                     <div class="col-6 col-sm-6 col-md-8">
-                        <article>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin iaculis purus in mi iaculis, id hendrerit tortor posuere. Pellentesque velit odio, blandit sed finibus non, tincidunt eu massa. Aliquam finibus nibh ligula, eu consequat est tempus non. Suspendisse dapibus pellentesque vulputate. Nam bibendum ultricies iaculis. Fusce mattis auctor venenatis.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin iaculis purus in mi iaculis, id hendrerit tortor posuere. Pellentesque velit odio, blandit sed finibus non, tincidunt eu massa. Aliquam finibus nibh ligula, eu consequat est tempus non. Suspendisse dapibus pellentesque vulputate. Nam bibendum ultricies iaculis. Fusce mattis auctor venenatis.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam animi tempora asperiores officiis voluptates velit ea numquam nisi dignissimos quo, in ratione distinctio veniam. Consequuntur accusamus quo facilis consectetur exercitationem.</p> 
+                        <article class="portp">
+                            <p>Com o passar do tempo, os visitantes não se contentavam apenas com o bolinho de bacalhau; eles desejavam também almoçar no local. Mais uma vez, Olivardo recorreu ao caderno de receitas da família para recriar pratos tradicionais à base de bacalhau.</p>
+                            <p>Hoje em dia, a Quinta do Olivardo tornou-se um verdadeiro lar português. Sua arquitetura rústica e o clima serrano transmitem aos turistas a sensação de estarem em uma tasca típica do interior de Portugal. </p> 
+                           
                         </article>
                     </div>
                     <div class="col-6 col-sm-6 col-md-3">
-                        <section>
-                            <img src="img/olivardo3.png" alt="Bacalhau a Moda da Casa" class="imagem_conteudo">
+                        <section class="portp">
+                        
+                            <img src="img/bolinho.jpg" alt="Bolinho de bacalhau" class="imagem_conteudo">
+                            <img src="img/bolinhom.jpg" alt="Bolinho de bacalhau" class="imagem_mobile">
+                            <p> Conheça mais da 
+                                <a href="portuguesa.php"> culinária portuguesa <a> presente na Quinta do Olivardo e outros restaurantes do Roteiro do Vinho </p>
                         </section>
                       
                     </div>

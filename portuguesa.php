@@ -19,7 +19,7 @@
             <div class="row">
                 <section class="text-center">
                     <h1 class="text-uppercase  text-center"> CULINÁRIA PORTUGUESA</h1>
-                    <img src="img/port2.jpg" alt="Bacalhau-a-Lagareiro" class="imagem_inicial">
+                    <img src="img/port1.png" alt="Bacalhau-a-Lagareiro " class="imagem_pt">
                 </section>
             </div>
         </div>
@@ -28,10 +28,10 @@
             <div class="row">
                                 
                  
-                  <div class=" col-sm-10 col-md-10 col-10 "> 
-                    <article >
-                    <h2 class="text-center">lorem</h2>
-                    <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
+                  <div class=" col-sm-10 col-md-10 col-10 text-left"> 
+                    <article class="portp">
+                    
+                    <p >A culinária portuguesa é conhecida por sua rica tradição gastronômica, que combina ingredientes frescos e simples com técnicas culinárias tradicionais. A influência do mar é evidente na culinária portuguesa, com pratos de frutos do mar sendo uma especialidade em muitas regiões costeiras. Bacalhau é um ingrediente icônico e versátil da cozinha portuguesa, preparado de várias maneiras, desde o famoso bacalhau à Brás até ao bacalhau com natas. Além disso, o azeite de oliva é um elemento essencial em muitas receitas, adicionando sabor e textura aos pratos.</p>
                     </article>
                    
                   </div>
@@ -46,19 +46,19 @@
 
    <div class="container">
     <div class="row">
-      <div class=" col-md-4 col-sm-4 col-10">
+      <div class=" col-md-4 col-sm-9 col-10">
        
          
                <aside  >
-                <img src="img/port1.jpg" alt="Sardinha assada na brasa, Bacalhau à Moda da Dalva" class="imagem_conteudo">
+                <img src="img/port4.jpg" alt="a-moda-da-casa-baixa" class="imagem_pt">
              </aside>  
       </div>
              
          
-          <div class=" col-sm-8 col-md-8 col-10 "> 
-            <section>
+          <div class="col-sm-10 col-md-8 col-10  "> 
+            <section class="portp">
             
-                             <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
+                             <p> A diversidade regional também é um destaque, com cada região do país oferecendo suas próprias especialidades. No norte de Portugal, a carne de porco é amplamente utilizada, destacando-se o prato tradicional do cozido à portuguesa. Na região de Lisboa, pratos como o arroz de marisco e os pastéis de Belém são muito populares. No Alentejo, as carnes de caça e os pratos à base de pão, como a açorda, são destaques. Já no Algarve, encontram-se pratos de peixe fresco e deliciosas cataplanas.</p>
             </section>
            
           </div>
@@ -74,18 +74,18 @@
    <div class="container">
     <div class="row">
 
-        <div class="col-sm-8 col-md-8 col-10 "> 
-            <section>
+        <div class="col-sm-10 col-md-8 col-10 "> 
+            <section class="portp">
             
-                             <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
+                             <p> A doçaria portuguesa é uma parte essencial da culinária do país. Os famosos pastéis de nata são apenas uma das muitas sobremesas deliciosas que Portugal tem a oferecer. Desde os pastéis de Belém, com sua massa folhada delicada e creme de ovos cremoso, até as queijadas de Sintra, os doces conventuais e o bolo de mel da Madeira, os doces portugueses encantam os amantes da culinária com seus sabores autênticos e tradição centenária.</p>
             </section>
            
           </div>
-      <div class=" col-md-4 col-sm-4 col-10">
+      <div class="col-md-4 col-sm-9 col-10">
        
          
                <aside  > 
-                <img src="img/port3.png" alt="Pastel-com-Cafe" class="imagem_conteudo">
+                <img src="img/port3.jpg" alt="Pastel-com-Cafe" class="imagem_pt">
              </aside>  
       </div>
              

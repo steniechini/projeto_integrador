@@ -35,7 +35,7 @@
                           </div>
                             
                            <div>
-                            <button class="custom-btn btn-1"><span>Bem vindo</span><span>Entrar</span></button>
+                            <button class="custom-btn btn-1"><span>Bem vindo</span><span>Enviar</span></button>
                           </div>
                   </div>
             </div> 
@@ -47,6 +47,9 @@
   
 
 </main>
+<div class="footcontato">
 <?php include("footer.php") ?>
+</div>
+
 </body>
 </html>
