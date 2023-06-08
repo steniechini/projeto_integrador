@@ -100,7 +100,7 @@
            </div>
           </main>
 
-          <div class="footcontato">
+          <div>
 <?php include("footer.php") ?>
 </div>
  
