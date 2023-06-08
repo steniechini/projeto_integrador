@@ -72,11 +72,20 @@ h1 {
 .quemsomos section {
   background-color: #777777;
 }
-
-.quemsomos p {
-  color: white
+.quemsomos main{
+  margin-bottom: 4em;
 }
-
+.quemsomos p {
+  color: white;
+  font-size: 1.5em;
+  margin-left: 1em;
+}
+.quemsomos h2{
+  color: #3f3e3e;
+  font-size: 2em;
+  font-family: 'Cinzel', serif;
+  margin-left: 1em;
+}
 .quemsomos h1 {
   color: #600028;
 }
@@ -604,4 +613,7 @@ html {
   .mobnhoque {
     align-items: center;
   }
+}
+.footerhome{
+  margin-top: 15em;
 }
