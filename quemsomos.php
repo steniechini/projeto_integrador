@@ -35,7 +35,7 @@
 
                 <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
-                        <p><img src="https://via.placeholder.com/150x150" alt="Jennyfer" class="perfil"></p>
+                        <p><img src="img/jenny.jpeg"  alt="Jennyfer" class="perfil"></p>
                         <h2>Jennyfer</h2>
 
                         <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
@@ -45,7 +45,7 @@
                 </div>
                 <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
-                        <p><img src="https://via.placeholder.com/150x150" alt="Lucas" class="perfil"></p>
+                        <p><img src="img/lucas.jpeg" alt="Lucas" class="perfil"></p>
                         <h2>Lucas</h2>
 
                         <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
@@ -53,9 +53,9 @@
                     </section>
 
                 </div>
-                <div class="col-md-12 col-xs-12  col-sm-12">>
+                <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
-                        <p><img src="https://via.placeholder.com/150x150" alt="Stephanie" class="perfil"></p>
+                        <p><img src="img/ste.jpeg" alt="Stephanie" class="perfil"></p>
                         <h2>Stephanie</h2>
 
                         <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
@@ -65,7 +65,7 @@
                 </div>
                 <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
-                        <p><img src="https://via.placeholder.com/150x150" alt="Thamiris" class="perfil"></p>
+                        <p><img src="img/thami.jpeg" alt="Thamiris" class="perfil"></p>
                         <h2>Thamiris</h2>
 
                         <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
@@ -75,7 +75,7 @@
                 </div>
                 <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
-                        <p><img src="https://via.placeholder.com/150x150" alt="vinicius" class="perfil"></p>
+                        <p><img src="img/vinicius.jpeg"  alt="vinicius" class="perfil"></p>
                         <h2>Vínicius</h2>
 
                         <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
