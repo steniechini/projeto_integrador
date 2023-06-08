@@ -84,7 +84,7 @@
       <div class="col-md-4 col-sm-9 col-10">
        
          
-               <aside  > 
+               <aside> 
                 <img src="img/port3.jpg" alt="Pastel-com-Cafe" class="imagem_pt">
              </aside>  
       </div>
@@ -102,6 +102,6 @@
         
 
    </main>
-   <<?php include("footer.php") ?>
+   <?php include("footer.php") ?>
 </body>
 </html>
