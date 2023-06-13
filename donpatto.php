@@ -37,7 +37,7 @@
                         <div class="card mb-3" style="max-width: 640px;">
                             <div class="row g-8">
                                 <div class="col-md-4">
-                                    <img src="img/culinariaportuguesadp.webp" class="img-fluid rounded-start" alt="a">
+                                    <img src="img/culinariaportuguesadp.webp" class="img-fluid rounded-start" alt="imagem de um prato de culinária portuguesa peixe frito com limão">
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
@@ -52,7 +52,7 @@
                         <div class="card mb-3" style="max-width: 640px;">
                             <div class="row g-8">
                                 <div class="col-md-4">
-                                    <img src="img/culinariaitalianadp.webp" class="img-fluid rounded-start" alt="a">
+                                    <img src="img/culinariaitalianadp.webp" class="img-fluid rounded-start" alt="imagem de um prato de culinária italiana massa com tomate">
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
@@ -63,6 +63,7 @@
                             </div>
                         </div>
                     </div>
+                </div>
             </section>
 
             <!-- menu -->
@@ -139,9 +140,8 @@
                         </div>
                     </div>
                 </div>
-
+            </section>
         </div>
-        </section>
 
         <!-- LOCALIZAÇÃO -->
         <section class="container text-center mb-5 mt-5" id="localizacao">
