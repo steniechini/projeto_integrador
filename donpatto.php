@@ -25,6 +25,11 @@
                 </div>
             </header>
 
+            <!-- Quote -->
+            <section class="texto-dp">
+                <p>A Vila don Patto hoje é um dos maiores complexos gastronômicos de São Roque. Em meio à natureza, possui diversos ambientes como Adega, Empório, Artesanato, Barco cenográfico, Sorveteria, Cafeteria, Redário, Playground, Heliponto, Boulangerie, além dos Restaurantes Português e Italiano, além da espetacular vista para as montanhas - e tudo isso a menos de uma hora de São Paulo.</p>
+            </section>
+
             <!-- CARDS -->
             <section id="sobre" class="container">
                 <div class="row">
@@ -32,13 +37,12 @@
                         <div class="card mb-3" style="max-width: 640px;">
                             <div class="row g-8">
                                 <div class="col-md-4">
-                                    <img src="img/viladonpatto_img3.jpg" class="img-fluid rounded-start" alt="a">
+                                    <img src="img/culinariaportuguesadp.webp" class="img-fluid rounded-start" alt="a">
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
-                                        <h5 class="card-title">Pratos Culinária Portuguesa</h5>
-                                        <p class="card-text">Lorem ipsum dolor sit amet consectetur
-                                            adipisicing elit.</p>
+                                        <h5 class="card-title">Culinária Portuguesa</h5>
+                                        <p class="card-text">Contamos com diversos pratos de Bacalhau, Alheira, Sardinha, Leitão à Moda do Patto, sobremesas e muitos outros pratos tradicionais portugueses.</p>
                                     </div>
                                 </div>
                             </div>
@@ -48,13 +52,12 @@
                         <div class="card mb-3" style="max-width: 640px;">
                             <div class="row g-8">
                                 <div class="col-md-4">
-                                    <img src="img/viladonpatto-img2.jpg" class="img-fluid rounded-start" alt="a">
+                                    <img src="img/culinariaitalianadp.webp" class="img-fluid rounded-start" alt="a">
                                 </div>
                                 <div class="col-md-8">
                                     <div class="card-body">
-                                        <h5 class="card-title">Pratos Culinária Italiana</h5>
-                                        <p class="card-text">Lorem ipsum dolor sit, amet consectetur
-                                            adipisicing elit.</p>
+                                        <h5 class="card-title">Culinária Italiana</h5>
+                                        <p class="card-text">Oferecemos uma variedade de antepastos, massas frescas e secas, risotos, carnes e sobremesas deliciosas da culinária italiana. Nosso serviço é à la carte, proporcionando uma experiência gastronômica personalizada.</p>
                                     </div>
                                 </div>
                             </div>
@@ -62,99 +65,116 @@
                     </div>
             </section>
 
-            <!-- SESSÃO -->
-            <section id="menu" class="container mt-5 mb-5">
+            <!-- menu -->
+            <section id="menu" class="container mt-5">
                 <ul class="nav nav-tabs" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation">
-                        <button class="nav-link active" id="Ambiente" data-bs-toggle="tab" data-bs-target="Ambiente-pane" type="button" role="tab" aria-controls="Ambiente-pane" aria-selected="true">Ambiente</button>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <button class="nav-link" id="cardapio" data-bs-toggle="tab" data-bs-target="#cardapio-pane" type="button" role="tab" aria-controls="cardapio-pane" aria-selected="false">Cardápio</button>
+                        <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Ambientes</button>
                     </li>
                 </ul>
-                <div class="tab-content" id="donpattoTabContent">
-                    <div class="tab-pane fade show active" id="Ambiente-pane" role="tabpanel" aria-labelledby="Ambiente" tabindex="0">
-                        <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
-                            <div class="col">
-                                <div class="card">
-                                    <img src="..." class="card-img-top" alt="...">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Nome Prato</h5>
-                                        <p class="card-text">This is a longer card with supporting text below as a
-                                            natural lead-in to additional content. This content is a little bit longer.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="card">
-                                    <img src="..." class="card-img-top" alt="...">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Nome Prato</h5>
-                                        <p class="card-text">This is a longer card with supporting text below as a
-                                            natural lead-in to additional content. This content is a little bit longer.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="card">
-                                    <img src="..." class="card-img-top" alt="...">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Nome Prato</h5>
-                                        <p class="card-text">This is a longer card with supporting text below as a
-                                            natural lead-in to additional content.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col">
-                                <div class="card">
-                                    <img src="..." class="card-img-top" alt="...">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Nome Prato</h5>
-                                        <p class="card-text">This is a longer card with supporting text below as a
-                                            natural lead-in to additional content. This content is a little bit longer.
-                                        </p>
-                                    </div>
-                                </div>
+                <!-- cards ambientes -->
+                <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
+                    <div class="col">
+                        <div class="card card-menu">
+                            <img src="img/donpattoadega.webp" class="card-img-top" alt="ADEGA">
+                            <div class="card-body">
+                                <h5 class="card-title">Adega</h5>
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="cardapio-pane" role="tabpanel" aria-labelledby="cardapio" tabindex="0"></div>
-                </div>
-            </section>
-
-            <!-- LOCALIZAÇÃO -->
-            <section class="container text-center mb-5" id="localizacao">
-                <!-- Button trigger modal -->
-                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                    Conheça o don Patto
-                </button>
-
-                <!-- Modal -->
-                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-dialog-centered">
-                        <div class="modal-content">
-                            <div class="modal-header">
-                                <h1 class="modal-title fs-5" id="exampleModalLabel">Estamos te esperando!</h1>
-                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <div class="col">
+                        <div class="card card-menu">
+                            <img src="img/donpattochopperia.webp" class="card-img-top" alt="CHOPPERIA">
+                            <div class="card-body">
+                                <h5 class="card-title">Chopperia</h5>
                             </div>
-                            <div class="modal-body">
-                                <p>Estrada do Vinho, KM 2,5 - Jardim Villaca, São Roque <br> SP, 18145-002</p>
-                                <div style="width: 100%">
-                                    <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Estrada%20do%20Vinho,%20KM%202,5%20-%20Jardim%20Villaca,%20S%C3%A3o%20Roque%20-%20SP,%2018145-002+(Vila%20Don%20Patto)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
-                                    </iframe>
-                                </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card card-menu">
+                            <img src="img/donpattolapiazza.webp" class="card-img-top" alt="LA PIAZZA">
+                            <div class="card-body">
+                                <h5 class="card-title">La Piazza</h5>
                             </div>
-                            <div class="modal-footer">
-                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card card-menu">
+                            <img src="img/donpattoplayfground.webp" class="card-img-top" alt="PLAYGROUND">
+                            <div class="card-body">
+                                <h5 class="card-title">Playground</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card card-menu">
+                            <img src="img/donpattoredario.webp" class="card-img-top" alt="REDÁRIO">
+                            <div class="card-body">
+                                <h5 class="card-title">Redário</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card card-menu">
+                            <img src="img/donpattorestitaliano.webp" class="card-img-top" alt="Restaurante Italiano">
+                            <div class="card-body">
+                                <h5 class="card-title">Restaurante Italiano</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card card-menu">
+                            <img src="img/donpattorestportugues.webp" class="card-img-top" alt="Restaurante Português">
+                            <div class="card-body">
+                                <h5 class="card-title">Restaurante Português</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card card-menu">
+                            <img src="img/donpattovinhasdavila.webp" class="card-img-top" alt="Vinhas da Vila">
+                            <div class="card-body">
+                                <h5 class="card-title">Vinhas da Vila</h5>
                             </div>
                         </div>
                     </div>
                 </div>
-            </section>
 
-            <?php include("footer.php") ?>
+        </div>
+        </section>
+
+        <!-- LOCALIZAÇÃO -->
+        <section class="container text-center mb-5 mt-5" id="localizacao">
+            <!-- Button trigger modal -->
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                Conheça o don Patto
+            </button>
+
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h1 class="modal-title fs-5" id="exampleModalLabel">Estamos te esperando!</h1>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <p>Estrada do Vinho, KM 2,5 - Jardim Villaca, São Roque <br> SP, 18145-002</p>
+                            <div style="width: 100%">
+                                <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Estrada%20do%20Vinho,%20KM%202,5%20-%20Jardim%20Villaca,%20S%C3%A3o%20Roque%20-%20SP,%2018145-002+(Vila%20Don%20Patto)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+                                </iframe>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <?php include("footer.php") ?>
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
 
