@@ -22,7 +22,7 @@
                              <section class="text-center" >
                              <h1 class="text-uppercase text-center">Quinta do Olivardo</h1> 
                              
-                             <img class="text-center imagem_olivardo" src="img/quintadoolivardo.png" alt="Quinta do Olivardo">
+                             <img class="text-center imagem_olivardo" src="img/quintadoolivardo.webp" alt="Quinta do Olivardo">
                              
                         </section>
                        
@@ -36,8 +36,8 @@
                   <div class="row">
                   <div class="col-6 col-sm-6 col-md-4">
                     <section>
-                        <img src="img/olivardo.png" alt="Olivardo" class="imagem_conteudo" >
-                        <img src="img/olivardom.png" alt="Olivardo" class="imagem_mobile" >
+                        <img src="img/olivardo.webp" alt="Olivardo" class="imagem_conteudo" >
+                        <img src="img/olivardom.webp" alt="Olivardo" class="imagem_mobile" >
                     </section>
                   </div>
                   <div class="col-6 col-sm-6 col-md-7">
@@ -60,8 +60,8 @@
                     <div class="col-6 col-sm-6 col-md-3">
                         <section class="portp">
                         
-                            <img src="img/bolinho.jpg" alt="Bolinho de bacalhau" class="imagem_conteudo">
-                            <img src="img/bolinhom.jpg" alt="Bolinho de bacalhau" class="imagem_mobile">
+                            <img src="img/bolinho.webp" alt="Bolinho de bacalhau" class="imagem_conteudo">
+                            <img src="img/bolinhom.webp" alt="Bolinho de bacalhau" class="imagem_mobile">
                             <p> Conheça mais da 
                                 <a href="portuguesa.php"> culinária portuguesa <a> presente na Quinta do Olivardo e outros restaurantes do Roteiro do Vinho </p>
                         </section>

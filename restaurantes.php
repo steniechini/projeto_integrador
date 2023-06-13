@@ -19,7 +19,7 @@
 
 
 
-<body class="home">
+<body class="bodyrest">
   <?php include("header.php")?>
 
     <main>
@@ -28,8 +28,8 @@
         <div class="row">
           <div class="col-12">
             <div>
-              <p class="textoimg">Restaurantes</p>
-              <img class="img-fluid" src="img/Rectanglegr.png" alt="imagem de taça de vinho">
+             
+              <img class="img-fluid" src="img/resta.webp" alt="imagem cinza escrito Restaurantes com um prato branco e preto com vagem e filé de peixe">
 
             </div>
           </div>

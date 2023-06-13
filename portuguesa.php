@@ -19,7 +19,7 @@
             <div class="row">
                 <section class="text-center">
                     <h1 class="text-uppercase  text-center"> CULINÁRIA PORTUGUESA</h1>
-                    <img src="img/port1.png" alt="Bacalhau-a-Lagareiro " class="imagem_pt">
+                    <img src="img/port1.webp" alt="Bacalhau-a-Lagareiro " class="imagem_pt">
                 </section>
             </div>
         </div>
@@ -50,7 +50,7 @@
        
          
                <aside  >
-                <img src="img/port4.jpg" alt="a-moda-da-casa-baixa" class="imagem_pt">
+                <img src="img/port4.webp" alt="a-moda-da-casa-baixa" class="imagem_pt">
              </aside>  
       </div>
              
@@ -85,7 +85,7 @@
        
          
                <aside> 
-                <img src="img/port3.jpg" alt="Pastel-com-Cafe" class="imagem_pt">
+                <img src="img/port3.webp" alt="Pastel-com-Cafe" class="imagem_pt">
              </aside>  
       </div>
              

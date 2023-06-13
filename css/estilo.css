@@ -345,7 +345,7 @@ footer ul li {
 .hometext {
   height: 15em;
   width: 45em;
-  background: url(../img/gp1.png) no-repeat;
+  background: url(../img/gp1.webp) no-repeat;
   /* background: url(../img/retanglers.png);*/
 
 }
@@ -370,6 +370,9 @@ footer ul li {
 
 
 /*restaurantes*/
+.bodyrest{
+  background: url(../img/desktop1.webp);
+}
 
 .textrest a {
   color: white;
@@ -380,7 +383,8 @@ footer ul li {
 
 }
 
-
+.img-fluid{animation: slideIn 1s ease-in-out forwards;
+}
 .cantina {
   border-radius: 21px;
   background: #600028;

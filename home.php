@@ -25,13 +25,13 @@
                 </div>
                 <div class="carousel-inner">
                   <div class="carousel-item active">
-                    <img src="img/food2.jpg"  class="d-block w-100" alt="...">
+                    <img src="img/car000.webp"  class="d-block w-100" alt="colagem de imagens contendo comida, frutas e vinho">
                   </div>
                   <div class="carousel-item">
-                    <img src="img/food4.jpg" class="d-block w-100" alt="...">
+                    <img src="img/car01.webp" class="d-block w-100" alt="colagem de imagens contendo comida, frutas e vinho">
                   </div>
                   <div class="carousel-item">
-                    <img src="img/food3.jpg" class="d-block w-100" alt="...">
+                    <img src="img/car02.webp" class="d-block w-100" alt="colagem de imagens contendo comida, frutas e vinho">
                   </div>
                   
                 </div>
@@ -59,20 +59,22 @@
           <section class="text-center">
             <div class="row">
               <div class="col-sm-2 col-md-3 col-3 nav1">
-                <img src="img/quinta_img-removebg-preview.png" width="100" height="100" alt="Imagem 1">
+                <img src="img/pratos.webp" width="200" height="200" alt="Desenho de um prato com garfo e faca ao lado, com a palavra pratos escrita embaixo.">
               </div>
 
               <div class="col-sm-2 col-md-3 col-3 nav2">
-                <img src="img/quinta_img-removebg-preview.png" width="100" height="100" alt="Imagem 1">
+                <img src="img/lembranca.webp" width="200" height="200" alt="Desenho de uma xicara com a palavra lembranças escritas embaixo">
               </div>
 
               <div class="col-sm-2 col-md-3 col-3 nav3" >
-                <img src="img/quinta_img-removebg-preview.png" width="100" height="100" alt="Imagem 1">
+                <img src="img/momentos.webp" width="200" height="200" alt="Desenho de um emoticon feliz com a palavra momentos escrita embaixo">
               </div>
 
-              <div class="col-sm-2 col-md-3 col-3 nav4">
-                <img src="img/quinta_img-removebg-preview.png" width="100" height="100" alt="Imagem 1">
+              <div class="col-sm-2 col-md-3 col-3 nav3" >
+                <img src="img/vinhos.webp" width="200" height="200" alt="Desenho de duas taças de vinho com a palavra vinhos escrita embaixo">
               </div>
+
+             
 
             </div>
           </section>   
@@ -92,7 +94,7 @@
                
                  
                        <aside>
-                        <img src="img/colher.png" width="400" height="235" alt="Quatro colheres com tempeiros">
+                        <img src="img/colher.webp" width="400" height="235" alt="Quatro colheres com tempeiros">
                      </aside>  
               </div>
               

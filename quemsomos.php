@@ -22,7 +22,7 @@
         <div class="container">
             <div class="row">
                 <article  class="col-md-12 col-xs-12  col-sm-12 text-center">
-                    <h1 class="text-uppercase unih1"> <img src="img/uni.png" alt="logo" class="uni">QUEM SOMOS</h1>
+                    <h1 class="text-uppercase unih1"> <img src="img/uni.webp" alt="logo" class="uni">QUEM SOMOS</h1>
                 </article>
             </div>
         </div>
@@ -35,17 +35,17 @@
 
                 <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
-                        <p><img src="img/jenny.jpeg"  alt="Jennyfer" class="perfil"></p>
+                        <p><img src="img/jenny.webp"  alt="Jennyfer" class="perfil"></p>
                         <h2>Jennyfer</h2>
 
-                        <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
+                        <p>Nasci em São Roque em 1999, em transição de carreira, tenho amor incondicional por gatos e animações japonesas dos anos 80. Responsável por testes, Mockup, HTML e CSS das páginas Home e Restaurantes, HTML e CSS da página Contato e edição das imagens dessas páginas feitas no CorelDRAW.</p>
 
                     </section>
 
                 </div>
                 <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
-                        <p><img src="img/lucas.jpeg" alt="Lucas" class="perfil"></p>
+                        <p><img src="img/lucas.webp" alt="Lucas" class="perfil"></p>
                         <h2>Lucas</h2>
 
                         <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
@@ -55,17 +55,18 @@
                 </div>
                 <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
-                        <p><img src="img/ste.jpeg" alt="Stephanie" class="perfil"></p>
+                        <p><img src="img/ste.webp" alt="Stephanie" class="perfil"></p>
                         <h2>Stephanie</h2>
 
                         <p> Tenho 27 anos, curso Sistemas para Internet na FATEC- SR. Amo cinema, mangás e música para mulheres tristes.</p>
+                            <p>Responsável pelo Mockup,  HTML e CSS das páginas Quinta do Olivardo, Quem somos e Culinária Portuguesa.</p>
 
                     </section>
 
                 </div>
                 <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
-                        <p><img src="img/thami.png" alt="Thamiris" class="perfil"></p>
+                        <p><img src="img/thami.webp" alt="Thamiris" class="perfil"></p>
                         <h2>Thamiris</h2>
 
                         <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
@@ -75,7 +76,7 @@
                 </div>
                 <div class="col-md-12 col-xs-12  col-sm-12">
                     <section>
-                        <p><img src="img/vinicius.jpeg"  alt="vinicius" class="perfil"></p>
+                        <p><img src="img/vinicius.webp"  alt="vinicius" class="perfil"></p>
                         <h2>Vínicius</h2>
 
                         <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
