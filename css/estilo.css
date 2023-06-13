@@ -337,6 +337,18 @@ footer ul li {
   align-items: center;
 }
 
+.texto-dp{
+  font-style: italic;
+  font-weight: 400;
+  text-align: center;
+  font-size: 2vw;
+  margin: 35px;
+}
+
+.card-title {
+  font-family: 'Cinzel', 'serif';
+}
+
 /* fim thami, vila don patto */
 
 /*jenny*/
