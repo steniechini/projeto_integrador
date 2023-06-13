@@ -69,8 +69,8 @@
                         <p><img src="img/thami.webp" alt="Thamiris" class="perfil"></p>
                         <h2>Thamiris</h2>
 
-                        <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
-
+                        <p>Tenho 19 anos já tem muito tempo. Gosto muito de falar, acho graça de tudo e ainda amo a One Direction.</p>
+                        <p>Responsável pelo Mockup, HTML e CSS da página Don Patto. Também responsável pela gerência do grupo.</p>
                     </section>
 
                 </div>
