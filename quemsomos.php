@@ -79,7 +79,8 @@
                         <p><img src="img/vinicius.webp"  alt="vinicius" class="perfil"></p>
                         <h2>Vínicius</h2>
 
-                        <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
+                        <p> Tenho 21 anos, curso Sistemas para Internet. Amo tocar instrumentos musicais e sou apaixonado por motos.</p>
+                        <p> Responsável pelo Mockup, HTML e CSS das páginas Cantina Tia Lina e Culinária Italiana .</p>
 
                     </section>
 
