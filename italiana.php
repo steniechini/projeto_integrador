@@ -24,7 +24,7 @@
               <section class="text-center">
                 <h1 id="oh2" class="text-uppercase  text-center mb-4"> CULINÁRIA ITALIANA</h1>
                 
-                <img src="img/mobile/culinaria/principal326x229.png" alt="nhoque" class="mobnhoque mb-4 col-12">
+                <img src="img/mobile/culinaria/principal326x229.webp" alt="nhoque" class="mobnhoque mb-4 col-12">
                 
                 
                 
@@ -36,12 +36,12 @@
         <div class="container">
           <div class="row row-cols-2">
             <div class="col-sm-6 pe-0">
-              <p>Lorem Ipsum is simply dummy text  of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and book.
+              <p>A chef Carol Góes é conhecida por suas habilidades culinárias e toques criativos, transmitindo amor, cuidado e dedicação em seus pratos. Ela aprendeu muito com sua mãe, Tia Lina, e juntas cativam a todos com sorrisos e receitas memoráveis.
               </p>
             </div>
             
             <div class="col-sm-6 text-end ps-0"> 
-              <img src="img/mobile/culinaria/maeefilha164x177.png" alt="Tia lina e a chefe Carol">
+              <img src="img/mobile/culinaria/maeefilha164x177.webp" alt="Tia lina e a chefe Carol">
             </div>    
           </div>
         </div>
@@ -49,12 +49,12 @@
         
         <div class="container m-0 p-0 text-center"> 
           <div class="row row-cols-3 justify-content-between">
-            <div class="col"> <img src="img/mobile/culinaria/prato1-88x75.png" class="" alt="rondelli"></div>
-            <div class="col"> <img src="img/mobile/culinaria/prato2-88x75.png" class="" alt="panacota"></div> 
-            <div class="col"> <img src="img/mobile/culinaria/prato3-88x75.png" class="mb-3" alt="nhoque"></div>
+            <div class="col"> <img src="img/mobile/culinaria/prato1-88x75.webp" class="" alt="rondelli"></div>
+            <div class="col"> <img src="img/mobile/culinaria/prato2-88x75.webp" class="" alt="panacota"></div> 
+            <div class="col"> <img src="img/mobile/culinaria/prato3-88x75.webp" class="mb-3" alt="nhoque"></div>
           </div>
           <article>
-            <p class="text-start ms-3"> Nibh sapien aliquet diam, ut rhoncus neque tortor ut erat. Phasellus lobortis, velit ut pharetra elementum, ex erat feugiat quam</p>
+            <p class="text-start ms-3"> A Cantina da Tia Lina é um restaurante que celebra os sabores tradicionais da Itália de uma forma única e apaixonada. Com seus aromas inebriantes e pratos que são verdadeiras obras de arte culinária, este local encanta todos os sentidos dos amantes da boa comida.</p>
           </article>
         </div>
         
