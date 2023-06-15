@@ -37,15 +37,21 @@
         <div class="row">
           <div class="col-12 col-sm-12 col-md-12 ">
             <section>
-              <img src="img/lazer/principal1-350x275.png" alt="tia lina">
-              <img src="img/lazer/principal2-350x275.png" alt="tia lina">
+              <img src="img/mobile/carroselprincipal/principal1-366x191.webp" alt="tia lina">
+              <!-- <img src="img/mobile/carroselprincipal/principal2-366x191.png" alt="tia lina">
+              <img src="img/mobile/carroselprincipal/principal3-366x191.png" alt="tia lina"> -->
             </section>
           </div>
 
           <div class="col-12 col-sm-12 col-md-12">
 
             <article>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and book.</p>
+
+              <img src="img/mobile/maeefilha-219x193.webp" alt="">
+
+              <!-- fazer o carrosel e arrumar os posicionamentos  -->
+
+              <p>Carol Goés possui um estilo culinário criativo e contemporâneo, usando técnicas clássicas e valorizando ingredientes de qualidade. Sua ênfase está em produtos sazonais e locais, realçando os sabores naturais dos alimentos.</p>
 
             </article>
           </div>
@@ -58,15 +64,11 @@
 
             <aside class="d-flex m-3 align-items-center text-center">
 
-              <img src="img/lazer/lazermob1-140x120.png" class="me-5" alt="lazer">
+              <img src="img/mobile/lazer/lazer1-88x75.webp" class="me-5" alt="lazer">
+              <img src="img/mobile/lazer/lazer2-88x75.webp" class="me-5" alt="lazer">
+              <img src="img/mobile/lazer/lazer3-88x75.webp" class="me-5" alt="lazer">
+             
 
-              <img src="img/lazer/lazermob2-140x120.png" class="me-5" alt="lazer">
-
-              <img src="img/lazer/lazermob3-140x120.png" class="me-5" alt="lazer">
-
-              <img src="img/lazer/lazermob4-140x120.png" class="me-5" alt="lazer">
-
-              <img src="img/lazer/lazermob5-140x120.png" class="me-5" alt="lazer">
 
             </aside>
           </div>
