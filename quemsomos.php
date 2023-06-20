@@ -59,7 +59,7 @@
                         <h2>Stephanie</h2>
 
                         <p> Tenho 27 anos, curso Sistemas para Internet na FATEC- SR. Amo cinema, mangás e música para mulheres tristes.</p>
-                            <p>Responsável pela gerência do grupo, Mockup,  HTML e CSS das páginas Quinta do Olivardo e Quem somos. 
+                            <p>Responsável pelo Mockup,  HTML e CSS das páginas Quinta do Olivardo e Quem somos. 
                                  </p>
 
                     </section>
