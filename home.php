@@ -86,7 +86,7 @@
                 <div class="  col-sm-8 col-md-8 col-10 hometext"> 
                     <section>
                       <h1 class="h1home">Bem Vindo</h1>
-                       <p class="phome"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
+                       <p class="phome"> Bem-vindo ao Portal de Restaurantes do Roteiro do Vinho de São Roque! Descubra a deliciosa culinária e os vinhos premiados desta região encantadora. Explore nossas opções gastronômicas únicas, dos tradicionais aos contemporâneos.Venha viver uma experiência gastronômica inesquecível.</p>
                     </section>
                    
                   </div>
