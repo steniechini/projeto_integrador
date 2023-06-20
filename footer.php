@@ -5,6 +5,7 @@
                 <li><a href="https://twitter.com" target="_blank"><img src="img/logotwitter.webp" alt="logo twitter"></a></li>
                 <li><a href="https://facebook.com" target="_blank"><img src="img/logofacebook.webp" alt="logo facebook"></a></li>
                 <li><a href="https://instagram.com" target="_blank"><img src="img/logoinstagram.webp" alt="logo instagram"></a></li>
+                <li><a href="https://github.com/steniechini/projeto_integrador.git" target="_blank"><img src="img/logogithub.png" alt="logo github"></a></li>
                 <li><a class="float-right" href="termos.php ">Termos de uso</a></li>
             </ul>
            
