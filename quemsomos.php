@@ -48,7 +48,7 @@
                         <p><img src="img/lucas.webp" alt="Lucas" class="perfil"></p>
                         <h2>Lucas</h2>
 
-                        <p> Responsável pela página Vinícula Góes.</p>
+                        <p>SR, 20 anos e cheio de conhecimentos inuteis, sabia que existe aranhas veganas? </p><p>  Fiz a pagina Vinicola Goes.</p>
 
                     </section>
 
