@@ -73,6 +73,7 @@
                         <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home-tab-pane" type="button" role="tab" aria-controls="home-tab-pane" aria-selected="true">Ambientes</button>
                     </li>
                 </ul>
+                
                 <!-- cards ambientes -->
                 <div class="row row-cols-1 row-cols-md-3 g-4 mt-3">
                     <div class="col">
