@@ -48,7 +48,7 @@
                         <p><img src="img/lucas.webp" alt="Lucas" class="perfil"></p>
                         <h2>Lucas</h2>
 
-                        <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur neque, et aliquam necessitatibus fugit, voluptas facilis ducimus voluptates molestiae dolorem accusamus quo laudantium nemo expedita voluptatibus. Labore quia earum quae.</p>
+                        <p> Responsável pela página Vinícula Góes.</p>
 
                     </section>
 
@@ -59,7 +59,8 @@
                         <h2>Stephanie</h2>
 
                         <p> Tenho 27 anos, curso Sistemas para Internet na FATEC- SR. Amo cinema, mangás e música para mulheres tristes.</p>
-                            <p>Responsável pelo Mockup,  HTML e CSS das páginas Quinta do Olivardo, Quem somos e Culinária Portuguesa.</p>
+                            <p>Responsável pela gerência do grupo, Mockup,  HTML e CSS das páginas Quinta do Olivardo e Quem somos. 
+                                 </p>
 
                     </section>
 
@@ -70,7 +71,7 @@
                         <h2>Thamiris</h2>
 
                         <p>Tenho 19 anos já tem muito tempo. Gosto muito de falar, acho graça de tudo e ainda amo a One Direction.</p>
-                        <p>Responsável pelo Mockup, HTML e CSS da página Don Patto. Também responsável pela gerência do grupo.</p>
+                        <p>Responsável pelo Mockup, HTML e CSS da página Don Patto e Culinária Portuguesa.. Também responsável pela gerência do grupo.</p>
                     </section>
 
                 </div>

@@ -59,7 +59,7 @@
 
           <div class="col-sm-8 col-md-8 col-10  m-3 rounded-4; cantina">
             <i class="bi bi-award" style="font-size: 35px; color:white"></i><br>
-            <a class="textrest" href="vinicula_goes.php">Vinicula Góes</a>
+            <a class="textrest" href="vinicola_goes.php">Vinicola Góes</a>
           </div>
         </div>
       </div>

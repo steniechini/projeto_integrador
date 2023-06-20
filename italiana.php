@@ -24,37 +24,61 @@
               <section class="text-center">
                 <h1 id="oh2" class="text-uppercase  text-center mb-4"> CULINÁRIA ITALIANA</h1>
                 
-                <img src="img/mobile/culinaria/principal326x229.webp" alt="nhoque" class="mobnhoque mb-4 col-12">
+                <img src="img/mobile/culinaria/principal326x229.webp" alt="nhoque" class=" mobnhoque mb-4 col-12  d-sm-block d-md-block d-lg-none">
+
                 
-                
-                
+                <!-- principal desk -->
+                <div class="row">
+                  <img src="img/Desktop/culinaria/principal-826x408.webp"class="col-9 d-sm-none d-md-none d-lg-block">
+                  <img src="img/Desktop/culinaria/maeefilha-415x408.webp" alt="Mãe e filha" class="col-3 d-sm-none d-md-none d-lg-block">
+                </div>
+
+
+                <div class="row mt-4">
+                  <img src="img/Desktop/culinaria/prato1-235x172.webp" alt="prato1" class="col-3 d-sm-none d-md-none d-lg-block d-flex">
+                  <img src="img/Desktop/culinaria/prato2-235x172.webp" alt="prato1" class="col-3 d-sm-none d-md-none d-lg-block d-flex">
+                  <img src="img/Desktop/culinaria/prato3-235x172.webp" alt="prato1" class="col-3 d-sm-none d-md-none d-lg-block d-flex">
+                  <p class="col-3 d-sm-none d-md-none d-lg-block">A chef Carol Góes é conhecida por suas habilidades culinárias e toques criativos, transmitindo amor, cuidado e dedicação em seus pratos. Ela aprendeu muito com sua mãe, Tia Lina, e juntas cativam a todos com sorrisos e receitas memoráveis.</p>
+
+                </div>
+
+                  <div class="row mt-4 text-justify col-9 d-sm-none d-md-none d-lg-block">
+                    <p> A chef Carol Góes é conhecida por suas habilidades culinárias e toques criativos, transmitindo amor, cuidado e dedicação em seus pratos. Ela aprendeu muito com sua mãe, Tia Lina, e juntas cativam a todos com sorrisos e receitas memoráveis. </p>
+                  </div>
+              
+                                
               </section>
+              
             </div>
           </div>
         </div>
+
+              
         
         <div class="container">
-          <div class="row row-cols-2">
-            <div class="col-sm-6 pe-0">
+          <div class="row row-cols-2 d-sm-block d-md-block d-lg-none">
+            <div class="col-sm-7 pe-0">
               <p>A chef Carol Góes é conhecida por suas habilidades culinárias e toques criativos, transmitindo amor, cuidado e dedicação em seus pratos. Ela aprendeu muito com sua mãe, Tia Lina, e juntas cativam a todos com sorrisos e receitas memoráveis.
               </p>
             </div>
             
-            <div class="col-sm-6 text-end ps-0"> 
+            <div class="col-sm-5 d-sm-block d-md-block d-lg-none text-end ps-0"> 
               <img src="img/mobile/culinaria/maeefilha164x177.webp" alt="Tia lina e a chefe Carol">
             </div>    
           </div>
         </div>
         
         
-        <div class="container m-0 p-0 text-center"> 
-          <div class="row row-cols-3 justify-content-between">
-            <div class="col"> <img src="img/mobile/culinaria/prato1-88x75.webp" class="" alt="rondelli"></div>
-            <div class="col"> <img src="img/mobile/culinaria/prato2-88x75.webp" class="" alt="panacota"></div> 
-            <div class="col"> <img src="img/mobile/culinaria/prato3-88x75.webp" class="mb-3" alt="nhoque"></div>
+        <div class="container col-12 align-items-center text-justify d-sm-block d-md-block d-lg-none">
+          <div class="mt-3 mb-3">
+            <img src="img/mobile/culinaria/prato1-88x75.webp" class="img-fluid  px-4" alt="rondelli">
+            <img src="img/mobile/culinaria/prato2-88x75.webp" class="img-fluid px-4" alt="panacota">
+            <img src="img/mobile/culinaria/prato3-88x75.webp" class="img-fluid px-4" alt="nhoque">
+
           </div>
+          
           <article>
-            <p class="text-start ms-3"> A Cantina da Tia Lina é um restaurante que celebra os sabores tradicionais da Itália de uma forma única e apaixonada. Com seus aromas inebriantes e pratos que são verdadeiras obras de arte culinária, este local encanta todos os sentidos dos amantes da boa comida.</p>
+            <p class="text-justify"> A Cantina da Tia Lina é um restaurante que celebra os sabores tradicionais da Itália de uma forma única e apaixonada. Com seus aromas inebriantes e pratos que são verdadeiras obras de arte culinária, este local encanta todos os sentidos dos amantes da boa comida.</p>
           </article>
         </div>
         
